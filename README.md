@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/siegepath-horde.webp" alt="SIEGEPATH — Grimmbart's horde" width="100%">
+</p>
+
 # SIEGEPATH
 
 **Build the defense. Read the path. Hold the line.**
@@ -19,9 +23,25 @@ Defend your castle across a stylized miniature world, place the right defenses a
 
 SIEGEPATH is designed around short, readable interactions on touch screens while retaining the positioning and planning of a compact strategy game. Maps, units, towers, effects and the animated world are rendered in real time with Three.js.
 
-## Screenshots
+## Six maps. One long road to the castle.
 
-Screenshots, artwork and gameplay footage will be added here as development continues.
+The campaign climbs through six distinct battlefields. Every stop introduces a new route, new pressure and a fully rated three-star challenge.
+
+<p align="center">
+  <a href="assets/siegepath-level-journey.mp4">
+    <img src="assets/siegepath-level-journey.gif" alt="Animated journey through all six SIEGEPATH maps" width="100%">
+  </a>
+</p>
+
+**[Watch the full-quality campaign journey (MP4)](assets/siegepath-level-journey.mp4)**
+
+## Three defenses. Six visible upgrades.
+
+Watchtower, Stone Thrower and Warden each grow through six readable silhouettes. Their models evolve with every upgrade so strength is visible directly on the battlefield.
+
+<p align="center">
+  <img src="assets/siegepath-defenses.webp" alt="All six upgrade levels for SIEGEPATH's three defenses" width="100%">
+</p>
 
 ## Development status
 
